@@ -1,0 +1,169 @@
+/*Espacio de las cajas*/
+.espacio{
+    margin-bottom: 55px;
+}
+
+/*Color de las letras*/
+h1{
+    color: #b3181f;
+    text-align: center;
+}
+
+/*Botones*/
+a{
+    text-align: center;
+    color: #d8262f;
+    text-decoration: none;  
+  }
+a:link{
+    text-decoration: none;
+  }
+a:hover {
+    color: darkgrey;
+    cursor: pointer;
+  }
+
+/*Tamaño de botones*/
+.tamano{
+    font-size: 13px;
+}
+
+/*Tipo de fuente global*/
+*{
+    font-family:"Century Gothic";
+}
+
+/*tamano imagen*/
+
+
+
+/*Espacio de lado botones*/
+.ladob{
+    margin-right: 20px;
+}
+
+img.alineadoTextoImagenCentro{
+    vertical-align: middle;
+  }
+
+  a:link{
+    text-decoration: none;
+  }
+  a:hover {
+    color: darkgrey;
+    cursor: pointer;
+  }
+
+  .boton {
+    border: 1px solid #b3181f; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #d8262f; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
+
+  .limitar_tamano{
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+    }
+
+
+  .centrado{
+    text-align: center;
+  }
+
+.separacion{
+  margin-top: 4%;
+}
+.separaciontex{
+  margin-top: 2%;
+}
+.separacion_icon{
+  margin-top: 10%;
+}
+
+.calma{
+  width: 20%;
+  max-width: 100px;
+  margin: auto;
+}
+
+
+.estilcaja{
+  box-shadow: 0px 8px 16px 0px rgba(39, 39, 39, 0.363);
+  border-radius: 10px;
+}
+
+.estilnav{
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.515);
+  border-radius: 10px;
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-color: #b3181f;
+}
+
+.opac2:hover{
+  opacity: 0.4;
+}
+
+.limitar{
+  width: 10%;
+  max-width: 100px;
+  margin: auto;
+}
+
+.termino{
+  background-color: #F0D5C0;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  
+}
+.centrar{
+  text-align: center;
+}
+
+.ingreso {
+  border-radius: 5px;
+  background-color: #FFFCF7;
+  padding: 3px;
+}
+
+.column{
+  width: 100%;
+  max-width: 275px;
+  padding: 15px;
+  margin-right: 10px;
+  margin-top: 5px;
+  background-color: blanchedalmond;
+  border-radius: 25px;
+}
+
+.redes{
+  width: 100%;
+  max-width: 200px;
+  margin: auto;
+}
+
+.limdon{
+  width: 30%;
+  max-width: 100px;
+  margin: auto;
+
+}
+
+.limitarcarusel{
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.te{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 110px;
+  color: #a1454a;
+}

@@ -1,0 +1,136 @@
+/*formato de navegador*/
+.barra{
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.515);
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    background-color: #b3181f;
+}
+
+/*tamaño imagen*/
+.limitar_tamaño{
+    width: 100%;
+    max-width: 600px;
+    margin:auto;
+    border-radius: 25px;
+}
+
+.imagen{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    border-radius: 25px
+}
+
+.imagenalianza{
+    width: 100%;
+    max-width: 30px;
+    margin: auto;
+    display: block;
+}
+
+.imagnariz{
+    width: 20%;
+    max-width: 70px;
+    margin: auto;
+    margin-right: 5px;
+}
+
+.imagenadot{
+    width: 100%;
+    max-width: 500px;
+    border-radius: 25px;
+}
+
+
+.imagenconcu{
+    width: 100%; 
+    max-width: 700px;
+    border-radius: 25px;
+    margin:auto;
+    display: block;
+    margin-bottom: 60px;
+}
+
+.redes{
+    width: 100%;
+    max-width: 200px;
+    margin: auto;
+}
+
+/*enlace sinsubrayar*/
+.sinsubrayar{
+    text-decoration: none;
+}
+
+.separacion{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.sep{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.justificado{
+    text-align: justify;
+}
+
+
+/*cuadros*/
+.recuadro{
+    border-radius: 25px;
+    border: 2px solid #b3181f;
+    background: white;
+    padding: 20px;
+}
+
+.column{
+    width: 100%;
+    max-width: 275px;
+    padding: 15px;
+    margin-right: 10px;
+    margin-top: 5px;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+}
+
+
+/*Tipo de fuente global*/
+*{
+    font-family:"Century Gothic";
+}
+
+/*Color de las letras*/
+h1,h2{
+    color: #b3181f;
+    text-align: center;
+}
+
+.ingreso {
+    border-radius: 5px;
+    background-color: #FFFCF7;
+    padding: 3px;
+}
+
+/*fondo*/
+body{
+    background-image: url(pati.jpg);
+    background-repeat: repeat-x;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.termino{
+    background-color: #F0D5C0;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.opac:hover{
+    opacity: 0.8;
+}
